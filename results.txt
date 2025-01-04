@@ -1,0 +1,178 @@
+=== Перевод текста ===
+Die Straße erstreckte sich über den Horizont, gesäumt von flüsternden Bäumen und dem Duft des frischen Regens. Sie ging langsam, ihre Schritte hallten in der Stille des Morgens. Hier, unter dem weichen Licht der Morgendämmerung, schien die Welt sowohl weit als auch intim. Jedes roschelnde Blatt und entfernte Vogellied war eine Erinnerung an die Schönheit in kleinen Dingen, das sanfte Vergehen der Zeit. Der Weg dorthin war ihr zu wandern, jeder Schritt trägt sie zu einem unbekannten, aber irgendwie vertrauten Ziel, ein Ort, wo Träume treffen die ruhige Gnade der Realität.
+
+=== Частотный список слов и переводов ===
+the: 11, Перевод: die, Грамматическая информация: DET
+road: 2, Перевод: Straße, Грамматическая информация: NOUN
+stretched: 1, Перевод: gestreckt, Грамматическая информация: VERB
+beyond: 1, Перевод: jenseits von, Грамматическая информация: ADP
+horizon: 1, Перевод: Horizont, Грамматическая информация: NOUN
+lined: 1, Перевод: gefüttert, Грамматическая информация: VERB
+with: 1, Перевод: mit, Грамматическая информация: ADP
+whispering: 1, Перевод: Flüstern, Грамматическая информация: NOUN
+trees: 1, Перевод: Bäume, Грамматическая информация: NOUN
+and: 3, Перевод: und, Грамматическая информация: CCONJ
+scent: 1, Перевод: Duft, Грамматическая информация: PROPN
+of: 6, Перевод: von, Грамматическая информация: ADP
+fresh: 1, Перевод: frisch, Грамматическая информация: ADV
+rain: 1, Перевод: Regen, Грамматическая информация: NOUN
+she: 1, Перевод: sie, Грамматическая информация: PRON
+walked: 1, Перевод: gewandelt, Грамматическая информация: VERB
+slowly: 1, Перевод: Langsam, Грамматическая информация: ADV
+her: 2, Перевод: sie, Грамматическая информация: PRON
+steps: 1, Перевод: Schritte, Грамматическая информация: NOUN
+echoing: 1, Перевод: Nachhall, Грамматическая информация: NOUN
+in: 2, Перевод: in der, Грамматическая информация: ADP
+stillness: 1, Перевод: Stille, Грамматическая информация: NOUN
+morning: 1, Перевод: Morgen, Грамматическая информация: ADV
+here: 1, Перевод: Hierher, Грамматическая информация: ADV
+under: 1, Перевод: unter, Грамматическая информация: ADP
+soft: 1, Перевод: weich, Грамматическая информация: ADV
+light: 1, Перевод: leicht, Грамматическая информация: ADV
+dawn: 1, Перевод: Morgendämmerung, Грамматическая информация: NOUN
+world: 1, Перевод: Welt, Грамматическая информация: NOUN
+seemed: 1, Перевод: schien, Грамматическая информация: VERB
+both: 1, Перевод: beides, Грамматическая информация: PRON
+vast: 1, Перевод: groß, Грамматическая информация: ADV
+intimate: 1, Перевод: intim, Грамматическая информация: ADV
+every: 1, Перевод: jedes, Грамматическая информация: PRON
+rustling: 1, Перевод: Rascheln, Грамматическая информация: NOUN
+leaf: 1, Перевод: Blatt, Грамматическая информация: NOUN
+distant: 1, Перевод: entfernt, Грамматическая информация: ADV
+bird: 1, Перевод: Vogel, Грамматическая информация: PROPN
+song: 1, Перевод: Lied, Грамматическая информация: NOUN
+was: 2, Перевод: wurde, Грамматическая информация: AUX
+a: 3, Перевод: a, Грамматическая информация: X
+reminder: 1, Перевод: Erinnerung, Грамматическая информация: NOUN
+beauty: 1, Перевод: Schönheit, Грамматическая информация: NOUN
+small: 1, Перевод: klein, Грамматическая информация: ADV
+things: 1, Перевод: Dinge, Грамматическая информация: NOUN
+gentle: 1, Перевод: sanft, Грамматическая информация: ADV
+passing: 1, Перевод: Vorübergehend, Грамматическая информация: ADV
+time: 1, Перевод: Zeit, Грамматическая информация: NOUN
+to: 2, Перевод: zu, Грамматическая информация: ADP
+anywhere: 1, Перевод: überall, Грамматическая информация: ADV
+hers: 1, Перевод: ihrs, Грамматическая информация: ADV
+wander: 1, Перевод: wandern, Грамматическая информация: VERB
+each: 1, Перевод: jeweils, Грамматическая информация: ADV
+step: 1, Перевод: Schritt, Грамматическая информация: NOUN
+carrying: 1, Перевод: mitgeführt, Грамматическая информация: ADV
+toward: 1, Перевод: Richtung, Грамматическая информация: NOUN
+destination: 1, Перевод: Bestimmung, Грамматическая информация: NOUN
+unknown: 1, Перевод: unbekannt, Грамматическая информация: ADV
+but: 1, Перевод: aber, Грамматическая информация: CCONJ
+somehow: 1, Перевод: irgendwie, Грамматическая информация: ADV
+familiar: 1, Перевод: vertraut, Грамматическая информация: ADV
+place: 1, Перевод: Ort, Грамматическая информация: NOUN
+where: 1, Перевод: Dabei ist, Грамматическая информация: ADV
+dreams: 1, Перевод: Träume, Грамматическая информация: NOUN
+meet: 1, Перевод: Treffen, Грамматическая информация: NOUN
+quiet: 1, Перевод: ruhig, Грамматическая информация: ADV
+grace: 1, Перевод: Anmutung, Грамматическая информация: NOUN
+reality: 1, Перевод: Wirklichkeit, Грамматическая информация: NOUN
+
+=== Дерево синтаксического разбора ===
+The --> det
+road --> nsubj
+stretched --> ROOT
+beyond --> prep
+the --> det
+horizon --> pobj
+, --> punct
+lined --> advcl
+with --> prep
+whispering --> amod
+trees --> pobj
+and --> cc
+the --> det
+scent --> conj
+of --> prep
+fresh --> amod
+rain --> pobj
+. --> punct
+She --> nsubj
+walked --> ROOT
+slowly --> advmod
+, --> punct
+her --> poss
+steps --> npadvmod
+echoing --> acl
+in --> prep
+the --> det
+stillness --> pobj
+of --> prep
+the --> det
+morning --> pobj
+. --> punct
+Here --> advmod
+, --> punct
+under --> prep
+the --> det
+soft --> amod
+light --> pobj
+of --> prep
+dawn --> pobj
+, --> punct
+the --> det
+world --> nsubj
+seemed --> ROOT
+both --> preconj
+vast --> oprd
+and --> cc
+intimate --> conj
+. --> punct
+Every --> det
+rustling --> compound
+leaf --> nsubj
+and --> cc
+distant --> amod
+bird --> compound
+song --> conj
+was --> ROOT
+a --> det
+reminder --> attr
+of --> prep
+the --> det
+beauty --> pobj
+in --> prep
+small --> amod
+things --> pobj
+, --> punct
+the --> det
+gentle --> amod
+passing --> attr
+of --> prep
+time --> pobj
+. --> punct
+The --> det
+road --> nsubj
+to --> prep
+anywhere --> pcomp
+was --> ROOT
+hers --> nsubj
+to --> aux
+wander --> ccomp
+, --> punct
+each --> det
+step --> npadvmod
+carrying --> acl
+her --> dobj
+toward --> prep
+a --> det
+destination --> pobj
+unknown --> amod
+but --> cc
+somehow --> advmod
+familiar --> conj
+, --> punct
+a --> det
+place --> appos
+where --> advmod
+dreams --> nsubj
+meet --> relcl
+the --> det
+quiet --> amod
+grace --> dobj
+of --> prep
+reality --> pobj
+. --> punct

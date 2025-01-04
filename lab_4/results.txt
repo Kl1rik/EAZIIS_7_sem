@@ -1,0 +1,311 @@
+=== Перевод текста ===
+Quanten-Computing hat das Potenzial, zahlreiche Felder zu revolutionieren, einschließlich Kryptographie. Traditionelle Verschlüsselungsmethoden, wie RSA, verlassen sich auf die Schwierigkeit, große Zahlen zu faktorisieren. Quanten-Algorithmen wie Shors Algorithmus könnten diese Systeme theoretisch durch effizientes Factoring von Zahlen brechen, die derzeit mit klassischen Computern undurchführbar sind. Dieser Durchbruch stellt eine erhebliche Sicherheitsbedrohung dar, die die Entwicklung von quantenresistenten Verschlüsselungsprotokollen motiviert. So ist beispielsweise die Lattice-basierte Kryptographie ein vielversprechender Ansatz, der gegen Quantenangriffe widerstandsfähig bleibt. Die Integration quantenresistenter Algorithmen in den öffentlichen und privaten Sektor ist unerlässlich für die Zukunftssicherung von Daten. Quanten-Computing hat das Potenzial, zahlreiche Felder, einschließlich Kryptographie, zu revolutionieren. Traditionelle Verschlüsselungsmethoden wie RSA, verlassen sich auf die Schwierigkeit, große Zahlen zu berücksichtigen. Quanten-Algorithmen wie Shors Algorithmus könnten diese Systeme jedoch theoretisch durch effizientes Factoring von Zahlen brechen, die derzeit mit klassischen Computern undurchführbar sind. Dieser Durchbruch stellt eine erhebliche Sicherheitsbedrohung dar und motiviert die Entwicklung von quantenresistenten Verschlüsselungsprotokollierten Protokollen.
+
+=== Частотный список слов и переводов ===
+quantum: 10, Перевод: Quantum, Грамматическая информация: NOUN
+computing: 2, Перевод: Datenverarbeitung, Грамматическая информация: NOUN
+has: 2, Перевод: hat, Грамматическая информация: AUX
+the: 8, Перевод: die, Грамматическая информация: DET
+potential: 2, Перевод: Potenzial, Грамматическая информация: NOUN
+to: 5, Перевод: zu, Грамматическая информация: ADP
+revolutionize: 2, Перевод: revolutionieren, Грамматическая информация: VERB
+numerous: 2, Перевод: zahlreiche, Грамматическая информация: ADJ
+fields: 2, Перевод: Felder, Грамматическая информация: NOUN
+including: 2, Перевод: einschließlich, Грамматическая информация: ADP
+cryptography: 4, Перевод: Kryptographie, Грамматическая информация: NOUN
+traditional: 2, Перевод: traditionelle, Грамматическая информация: VERB
+encryption: 4, Перевод: Verschlüsselung, Грамматическая информация: NOUN
+methods: 2, Перевод: Methoden, Грамматическая информация: NOUN
+such: 2, Перевод: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Грамматическая информация: PUNCT
+as: 2, Перевод: als, Грамматическая информация: ADP
+rsa: 2, Перевод: rsa, Грамматическая информация: PROPN
+rely: 2, Перевод: Vertrauen, Грамматическая информация: NOUN
+on: 2, Перевод: am, Грамматическая информация: PART
+difficulty: 2, Перевод: Schwierigkeiten, Грамматическая информация: NOUN
+of: 5, Перевод: von, Грамматическая информация: ADP
+factoring: 4, Перевод: Faktorisierung, Грамматическая информация: NOUN
+large: 2, Перевод: groß, Грамматическая информация: ADV
+numbers: 4, Перевод: Zahlen, Грамматическая информация: NOUN
+however: 2, Перевод: jedoch, Грамматическая информация: ADV
+algorithms: 4, Перевод: Algorithmen, Грамматическая информация: NOUN
+like: 2, Перевод: Wie z.B., Грамматическая информация: ADV
+shor: 2, Перевод: Schrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschrägschr, Грамматическая информация: NOUN
+algorithm: 2, Перевод: Algorithmus, Грамматическая информация: NOUN
+could: 2, Перевод: könnte, Грамматическая информация: AUX
+theoretically: 2, Перевод: theoretisch, Грамматическая информация: ADV
+break: 2, Перевод: Bruch, Грамматическая информация: NOUN
+these: 2, Перевод: Diese, Грамматическая информация: PRON
+systems: 2, Перевод: Systeme, Грамматическая информация: NOUN
+by: 2, Перевод: von, Грамматическая информация: ADP
+efficiently: 2, Перевод: effizient, Грамматическая информация: ADV
+that: 4, Перевод: das, Грамматическая информация: PRON
+are: 2, Перевод: sie werden, Грамматическая информация: PRON
+currently: 2, Перевод: zur Zeit, Грамматическая информация: ADP
+infeasible: 2, Перевод: undurchführbar, Грамматическая информация: ADV
+handle: 1, Перевод: Griff, Грамматическая информация: NOUN
+with: 2, Перевод: mit, Грамматическая информация: ADP
+classical: 2, Перевод: klassisch, Грамматическая информация: ADV
+computers: 2, Перевод: Datenverarbeitungsgeräte, Грамматическая информация: NOUN
+this: 2, Перевод: diese, Грамматическая информация: PRON
+breakthrough: 2, Перевод: Durchbruch, Грамматическая информация: NOUN
+presents: 1, Перевод: präsentiert, Грамматическая информация: VERB
+a: 4, Перевод: a, Грамматическая информация: X
+significant: 2, Перевод: signifikant, Грамматическая информация: ADV
+security: 4, Перевод: Sicherheit, Грамматическая информация: NOUN
+threat: 2, Перевод: Bedrohung, Грамматическая информация: NOUN
+motivating: 2, Перевод: motivierend, Грамматическая информация: ADV
+development: 2, Перевод: Entwicklung, Грамматическая информация: NOUN
+resistant: 5, Перевод: resistent, Грамматическая информация: ADV
+protocols: 2, Перевод: Protokolle, Грамматическая информация: NOUN
+lattice: 2, Перевод: Gitter, Грамматическая информация: NOUN
+based: 2, Перевод: auf Basis von, Грамматическая информация: ADP
+for: 2, Перевод: für, Грамматическая информация: ADP
+example: 1, Перевод: Beispiel, Грамматическая информация: NOUN
+is: 4, Перевод: wird, Грамматическая информация: AUX
+promising: 2, Перевод: vielversprechend, Грамматическая информация: ADV
+approach: 2, Перевод: Ansatz, Грамматическая информация: NOUN
+remains: 2, Перевод: bleibt, Грамматическая информация: VERB
+resilient: 1, Перевод: widerstandsfähig, Грамматическая информация: ADV
+against: 1, Перевод: dagegen, Грамматическая информация: ADV
+attacks: 2, Перевод: Angriffe, Грамматическая информация: NOUN
+integration: 1, Перевод: Integration, Грамматическая информация: NOUN
+into: 2, Перевод: in die, Грамматическая информация: ADP
+public: 2, Перевод: öffentlich, Грамматическая информация: ADV
+and: 2, Перевод: und, Грамматическая информация: CCONJ
+private: 2, Перевод: privat, Грамматическая информация: ADV
+sectors: 2, Перевод: Sektoren, Грамматическая информация: NOUN
+imperative: 1, Перевод: Imperativ, Грамматическая информация: NOUN
+future: 2, Перевод: Zukunft, Грамматическая информация: NOUN
+proofing: 1, Перевод: Nachweis, Грамматическая информация: NOUN
+data: 2, Перевод: Daten, Грамматическая информация: NOUN
+poses: 1, Перевод: Posen, Грамматическая информация: NOUN
+integrating: 1, Перевод: Integration, Грамматическая информация: NOUN
+essential: 1, Перевод: wichtig, Грамматическая информация: ADV
+proof: 1, Перевод: Nachweis, Грамматическая информация: NOUN
+
+=== Дерево синтаксического разбора ===
+Quantum --> compound
+computing --> nsubj
+has --> ROOT
+the --> det
+potential --> dobj
+to --> aux
+revolutionize --> acl
+numerous --> amod
+fields --> dobj
+, --> punct
+including --> prep
+cryptography --> pobj
+. --> punct
+Traditional --> amod
+encryption --> compound
+methods --> nsubj
+, --> punct
+such --> amod
+as --> prep
+RSA --> pobj
+, --> punct
+rely --> ROOT
+on --> prep
+the --> det
+difficulty --> pobj
+of --> prep
+factoring --> pcomp
+large --> amod
+numbers --> dobj
+. --> punct
+However --> advmod
+, --> punct
+quantum --> compound
+algorithms --> nsubj
+like --> prep
+Shor --> poss
+'s --> case
+algorithm --> pobj
+could --> aux
+theoretically --> advmod
+break --> ROOT
+these --> det
+systems --> dobj
+by --> prep
+efficiently --> advmod
+factoring --> pcomp
+numbers --> dobj
+that --> nsubj
+are --> relcl
+currently --> advmod
+infeasible --> acomp
+to --> aux
+handle --> xcomp
+with --> prep
+classical --> amod
+computers --> pobj
+. --> punct
+This --> det
+breakthrough --> nsubj
+presents --> ROOT
+a --> det
+significant --> amod
+security --> compound
+threat --> dobj
+, --> punct
+motivating --> advcl
+the --> det
+development --> dobj
+of --> prep
+quantum --> npadvmod
+- --> punct
+resistant --> amod
+encryption --> compound
+protocols --> pobj
+. --> punct
+Lattice --> npadvmod
+- --> punct
+based --> amod
+cryptography --> nsubj
+, --> punct
+for --> prep
+example --> pobj
+, --> punct
+is --> ROOT
+a --> det
+promising --> amod
+approach --> attr
+that --> nsubj
+remains --> relcl
+resilient --> acomp
+against --> prep
+quantum --> compound
+attacks --> pobj
+. --> punct
+The --> det
+integration --> nsubj
+of --> prep
+quantum --> npadvmod
+- --> punct
+resistant --> amod
+algorithms --> pobj
+into --> prep
+public --> amod
+and --> cc
+private --> conj
+sectors --> pobj
+is --> ROOT
+imperative --> acomp
+for --> prep
+future --> npadvmod
+- --> punct
+proofing --> amod
+data --> compound
+security --> pobj
+. --> punct
+
+ --> dep
+Quantum --> compound
+computing --> nsubj
+has --> ROOT
+the --> det
+potential --> dobj
+to --> aux
+revolutionize --> acl
+numerous --> amod
+fields --> dobj
+, --> punct
+including --> prep
+cryptography --> pobj
+. --> punct
+Traditional --> amod
+encryption --> compound
+methods --> nsubj
+, --> punct
+such --> amod
+as --> prep
+RSA --> pobj
+, --> punct
+rely --> ROOT
+on --> prep
+the --> det
+difficulty --> pobj
+of --> prep
+factoring --> pcomp
+large --> amod
+numbers --> dobj
+. --> punct
+However --> advmod
+, --> punct
+quantum --> compound
+algorithms --> nsubj
+like --> prep
+Shor --> poss
+'s --> case
+algorithm --> pobj
+could --> aux
+theoretically --> advmod
+break --> ROOT
+these --> det
+systems --> dobj
+by --> prep
+efficiently --> advmod
+factoring --> pcomp
+numbers --> dobj
+that --> nsubj
+are --> relcl
+currently --> advmod
+infeasible --> acomp
+with --> prep
+classical --> amod
+computers --> pobj
+. --> punct
+This --> det
+breakthrough --> nsubj
+poses --> ROOT
+a --> det
+significant --> amod
+security --> compound
+threat --> dobj
+, --> punct
+motivating --> advcl
+the --> det
+development --> dobj
+of --> prep
+quantum --> npadvmod
+- --> punct
+resistant --> amod
+encryption --> compound
+protocols --> pobj
+. --> punct
+Lattice --> npadvmod
+- --> punct
+based --> amod
+cryptography --> nsubj
+is --> ROOT
+a --> det
+promising --> amod
+approach --> attr
+that --> nsubj
+remains --> relcl
+resistant --> acomp
+to --> prep
+quantum --> compound
+attacks --> pobj
+. --> punct
+Integrating --> csubj
+quantum --> npadvmod
+- --> punct
+resistant --> amod
+algorithms --> dobj
+into --> prep
+the --> det
+public --> amod
+and --> cc
+private --> conj
+sectors --> pobj
+is --> ROOT
+essential --> acomp
+to --> prep
+future --> amod
+- --> punct
+proof --> amod
+data --> compound
+security --> pobj
+. --> punct

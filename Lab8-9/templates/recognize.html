@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Система анализа и синтеза речи</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      <script>
+   function listening() {
+   document.getElementById('state').innerHTML = "Listening...";
+   }
+   function listening() {
+   document.getElementById('state').innerHTML = "Listening...";
+   }
+  </script>
+  </head>
+    <body>
+
+      <header>
+        <div class="container">
+          <nav class="navbar navbar-inverse">
+              <div class="container-fluid" style="background-color: #5221b4">
+                <ul class="nav navbar-nav">
+                    <li><a style="color:black" href="http://localhost:5000/speech">Синтез речи</a></li>
+                    <li><a style="color:black" href="http://localhost:5000/info">Помощь</a></li>
+                </ul>
+              </div>
+          </nav>
+        </div>
+      </header>
+      <main>
+        <div class="container">
+            <h1>Анализ речи</h1>
+            <hr>
+            <p id="state"></p>
+            <h3>Результат:</h3>
+                {% for message in get_flashed_messages() %}
+                    <p>{{ message }}</p>
+                {% endfor %}
+          <form action="recognize" id="voice-form" method="post">
+            <input type="submit" onclick="listening()" onchange="clear()" class="btn btn-primary" value="Анализ" style="background-color: #5221b4; color:black">
+          </form>
+        </div>
+      </main>
+
+    </body>
+</html>

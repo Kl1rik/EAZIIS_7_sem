@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Система анализа и синтеза речи</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+    <body>
+
+      <header>
+        <div class="container">
+          <nav class="navbar navbar-inverse">
+              <div class="container-fluid" style="background-color: #5221b4">
+                <ul class="nav navbar-nav" >
+                  <li ><a style="color:black" href="http://localhost:5000/recognize">Анализ речи</a></li>
+                  <li><a style="color:black" href="http://localhost:5000/info">Помощь</a></li>
+                </ul>
+              </div>
+          </nav>
+        </div>
+      </header>
+      <main>
+        <div class="container">
+          <h1>Синтез речи</h1>
+          <hr>
+          <h3>Предыдущий запрос:</h3>
+          {% for message in get_flashed_messages() %}
+              <p>{{ message }}</p>
+          {% endfor %}
+          <form action="speech" id="voice-form" method="post">
+            <div class="form-group">
+              <label for="text" class="form-label">Введите текст</label>
+              <textarea class="form-control" rows="10" name="text" id="text" required></textarea>
+            </div>
+  
+            <div class="form-group">
+              <label for="voice" class="form-label">Выберите голос</label>
+              <select class="form-control" name="voice" id="voice">
+                <option value="Female">Female</option>
+                <option value="Male">Male</option>
+              </select>
+            </div>
+  
+            <div class="form-group">
+              <label for="rate" class="form-label">Выберите скорость</label>
+              <select class="form-control" name="rate" id="rate">
+                <option value="Default">Normal</option>
+                <option value="Fast">Fast (x2)</option>
+                <option value="Slow">Slow (x0,5)</option>
+              </select>
+            </div>
+  
+            <div class="form-group">
+              <label for="volume" class="form-label">Выберите громкость</label>
+              <select class="form-control" name="volume" id="volume">
+                <option value="Default">Normal</option>
+                <option value="Fast">Loud (x2)</option>
+                <option value="Slow">Quite (x0,5)</option>
+              </select>
+            </div>
+  
+            <input type="submit" class="btn btn-primary" value="Синтез" style="background-color: #5221b4; color: black">
+          </form>
+        </div>
+      </main>
+
+    </body>
+</html>
